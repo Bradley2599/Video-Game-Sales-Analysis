@@ -6,7 +6,7 @@ This project analyzes global video game sales data using Power BI. The dataset i
 
 ## Dataset
 
-- **Source**: Kaggle
+- **Source**: Kaggle https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
 
 ## Tools Used
 
