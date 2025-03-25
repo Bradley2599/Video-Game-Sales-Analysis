@@ -16,11 +16,13 @@ This project analyzes global video game sales data using Power BI. The dataset i
   - Global Sales
   - Year of Release
 
-
-
 ## Visualizations & Insights
 
+#Dashboard 1
+![image](https://github.com/user-attachments/assets/cec38e16-9d08-4330-983d-88a756737c07)
 
+#Dashboard 2
+![image](https://github.com/user-attachments/assets/8cd6bd1a-4d87-45cf-9a5c-8e190a796cf8)
 
 ### 1. **Top 10 Best-Selling Video Games**
 
@@ -67,7 +69,6 @@ This project analyzes global video game sales data using Power BI. The dataset i
 - Pandas, Matplotlib, Seaborn: For data analysis and visualization
 
 - Power BI : Used for create interactive dashboards and data visualization
-
 
 
 ## Conclusion
