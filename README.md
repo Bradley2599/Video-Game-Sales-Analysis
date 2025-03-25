@@ -7,14 +7,16 @@ This project analyzes global video game sales data using Power BI. The dataset i
 ## Dataset
 
 - **Source**: Kaggle
-- **Fields Included**:
-  - Game Title
-  - Platform
-  - Genre
-  - Publisher
-  - Sales in different regions (North America, Europe, Japan, and Others)
-  - Global Sales
-  - Year of Release
+
+## Tools Used
+
+- Microsoft Excel (optional for data preprocessing)
+
+- Python: Data processing and statistical analysis
+
+- Pandas, Matplotlib, Seaborn: For data analysis and visualization
+
+- Power BI : Used for create interactive dashboards and data visualization
 
 ## Visualizations & Insights
 
@@ -59,17 +61,6 @@ This project analyzes global video game sales data using Power BI. The dataset i
 
 - The **Xbox 360** has strong sales in **North America**, while **PlayStation 2** and **Wii** have consistent sales across multiple regions.
 - Japanese sales are dominated by **Nintendo platforms**, whereas **Microsoft platforms** are more dominant in Western markets.
-
-## Tools Used
-
-- Microsoft Excel (optional for data preprocessing)
-
-- Python: Data processing and statistical analysis
-
-- Pandas, Matplotlib, Seaborn: For data analysis and visualization
-
-- Power BI : Used for create interactive dashboards and data visualization
-
 
 ## Conclusion
 
