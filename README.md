@@ -1,4 +1,4 @@
-# Video Game Sales Data Analysis
+<img width="1427" height="795" alt="image" src="https://github.com/user-attachments/assets/9304f921-d78a-49c1-9c19-33f4e90aa852" /># Video Game Sales Data Analysis
 
 ## Project Overview
 
@@ -22,11 +22,11 @@ This project analyzes global video game sales data using Power BI. The dataset i
 
 Dashboard 1: Top Sellers 
 
-![image](https://github.com/user-attachments/assets/1bd7dfe0-b9c3-44a8-9af8-70ca92cd3d30)
+<img width="1441" height="804" alt="Screenshot 2025-08-28 195631" src="https://github.com/user-attachments/assets/7fe83e4d-2cd8-4f59-a35a-f2c66d9a2b19" />
 
 Dashboard 2: Sales Distribution
 
-![image](https://github.com/user-attachments/assets/f7cde109-6e32-408f-9bbc-934d9ea202aa)
+<img width="1427" height="795" alt="Screenshot 2025-08-28 195711" src="https://github.com/user-attachments/assets/5e901b24-cf4b-4850-bcb3-a64da3912bbe" />
 
 ### 1. **Top 10 Best-Selling Video Games**
 
