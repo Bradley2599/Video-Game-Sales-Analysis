@@ -1,4 +1,4 @@
-<img width="1427" height="795" alt="image" src="https://github.com/user-attachments/assets/9304f921-d78a-49c1-9c19-33f4e90aa852" /># Video Game Sales Data Analysis
+# Video Game Sales Data Analysis
 
 ## Project Overview
 
